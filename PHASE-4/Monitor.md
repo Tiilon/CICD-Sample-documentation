@@ -4,3 +4,4 @@
 ### Links to download Grafana https://grafana.com/grafana/download
 ### Other link from video https://github.com/prometheus/blackbox_exporter
 
+### Video link: https://www.youtube.com/watch?v=NnkUGzaqqOc&t=6446s
